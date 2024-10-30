@@ -1,2 +1,2 @@
 # Pagina-de-Asturias
-Página sobre Asturias hecha con HTML, CSS y JAVASCRIPT
+Página en proceso sobre Asturias hecha con HTML, CSS y JAVASCRIPT
